@@ -1,3 +1,3 @@
-# ada-404
+# grace-404
 
-https://sameureka.github.io/ada-404/
+https://sameureka.github.io/grace-404/
